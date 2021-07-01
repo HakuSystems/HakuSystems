@@ -1,6 +1,4 @@
-Im a software developer in the depths of XAML, C#
----
-[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
+[![nanoSDK](https://github.com/HakuSystems/nanoSDK)]
 
 <!--
 **HakuSystems/HakuSystems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
