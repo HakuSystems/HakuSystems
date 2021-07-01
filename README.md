@@ -1,7 +1,7 @@
 [![stats](https://github-readme-stats.vercel.app/api?username=HakuSystems&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ## Currently Working on
-[![nanoSDK](https://vercel.app/api/pin/?username=hakusystems&repo=nanoSDK)](https://github.com/HakuSystems/nanoSDK)
+[![nanoSDK](https://cdn.discordapp.com/attachments/607678478912847872/609533547778408451/vrcSdkHeaderWithCommunityLabs.png)](https://github.com/HakuSystems/nanoSDK)
 
 
 <!--
