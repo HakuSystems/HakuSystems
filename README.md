@@ -1,7 +1,7 @@
 ## Hey!
 ### my name is lyze or Haku.
 ---
-## Main Focus
+# Main Focus
 [![nanoSDK](https://cdn.discordapp.com/attachments/607678478912847872/609533547778408451/vrcSdkHeaderWithCommunityLabs.png)](https://github.com/HakuSystems/nanoSDK)
 ---
 
