@@ -1,4 +1,8 @@
 ### Hi there 👋
+Im a software developer in the depths of XAML, C#
+---
+
+[![nanoSDK - VRChat Modded SDK](https://github-readme-stats.hakusystems.vercel.app/api/pin/?username=HakuSystems&repo=nanoSDK&theme=midnight-purple&hide_border=true)](https://github.com/HakuSystems/nanoSDK)
 
 <!--
 **HakuSystems/HakuSystems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
