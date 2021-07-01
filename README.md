@@ -1,4 +1,4 @@
-[![nanoSDK](https://github.com/HakuSystems/nanoSDK)]
+[![Discord Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.com/invite/tCj8MNH)
 
 <!--
 **HakuSystems/HakuSystems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
