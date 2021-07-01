@@ -1,7 +1,9 @@
+## Hey!
+### my name is lyze or Haku.
 ---
 ## Main Focus
 [![nanoSDK](https://cdn.discordapp.com/attachments/607678478912847872/609533547778408451/vrcSdkHeaderWithCommunityLabs.png)](https://github.com/HakuSystems/nanoSDK)
-
+---
 
 <!--
 **HakuSystems/HakuSystems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
