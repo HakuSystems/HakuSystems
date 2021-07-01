@@ -1,6 +1,6 @@
-[![HakuSystems github stats](https://github-readme-stats.vercel.app/api?username=HakuSystems&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![HakuSystems github stats](https://github-readme-stats.vercel.app/api?username=HakuSystems&theme=pink)](https://github.com/anuraghazra/github-readme-stats)
 ---
-[![Discord Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.com/invite/tCj8MNH)
+[![nanoSDK](https://github-readme-stats.vercel.app/api/pin/?username=hakusystems&repo=github-readme-stats)](https://github.com/HakuSystems/nanoSDK)
 
 <!--
 **HakuSystems/HakuSystems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
