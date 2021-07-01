@@ -1,7 +1,7 @@
 [![HakuSystems github stats](https://github-readme-stats.vercel.app/api?username=HakuSystems&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ## Currently Working on
-[![HakuSystems/nanoSDK - GitHub](https://gh-card.dev/repos/HakuSystems/nanoSDK.svg &theme=radical)](https://github.com/HakuSystems/nanoSDK)
+[![HakuSystems/nanoSDK - GitHub](https://gh-card.dev/repos/HakuSystems/nanoSDK.svg&theme=radical)](https://github.com/HakuSystems/nanoSDK)
 
 
 <!--
