@@ -1,5 +1,4 @@
-## "LYZE", "NOTLYZE", "HAKU", "HAKUSYTEMS", PROJECTS.
-# "NANOCLIENT, LYZEDOWNLOADER, WPF - AUTOUPDATER (C#), HANGMAN, nanoSDK (VRChat), ETC"
+## KNOWN AS: "LYZE", "NOTLYZE", "HAKU", "HAKUSYTEMS"
 
 <!--
 **HakuSystems/HakuSystems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
