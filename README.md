@@ -1,7 +1,5 @@
-## Hey, im known as lyze and Haku!
-# Biggest Project
-[![nanoSDK](https://cdn.discordapp.com/attachments/607678478912847872/920046023420829757/profile.png)](https://github.com/HakuSystems/nanoSDK)
-
+## "LYZE", "NOTLYZE", "HAKU", "HAKUSYTEMS", PROJECTS.
+# "NANOCLIENT, LYZEDOWNLOADER, WPF - AUTOUPDATER (C#), HANGMAN, nanoSDK (VRChat), ETC"
 
 <!--
 **HakuSystems/HakuSystems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
