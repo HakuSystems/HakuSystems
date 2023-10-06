@@ -1,2 +1,36 @@
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+# Hello, I'm HakuSystems! 👋
+
+I'm Lyze (HakuSystems), a fusion of melodies and code. Music fuels my soul, while developing ignites my passion. In the symphony of life, I find harmony in creating tunes and crafting software. Whether it's hitting the right chord or writing the perfect line of code, I'm all about blending rhythms and algorithms. haha
+
+🔭 **Currently Working On**: [CubeManager](https://github.com/HakuSystems/CubeManager) - A comprehensive management tool for tasks and reminders.
+
+🌱 **Learning**: Always eager to learn and explore new technologies.
+
+🤝 **Collaborating**: Open to collaborations and love to work on exciting projects.
+
+📫 **How to reach me**: [Discord](https://discordapp.com/users/657301605195972628)
+
+📊 **Languages and Tools**: 
+- C#
+- Unity
+- JavaScript
+- XAML
+
+⚡ **Fun Fact**: The first computer music was generated in the early 1950s. Alan Turing's computer at Manchester University played "God Save the King" – making it one of the earliest instances where code met melody!
+
+---
+
+📈 **My GitHub Stats**:
+
+![HakuSystems's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HakuSystems&show_icons=true&theme=radical)
+
+---
+
+🔗 **Quick Links**:
+- [CubeManager Website](https://cubemanager.org/)
+
+---
+
+💬 **Let's Connect**:
+Feel free to reach out, discuss projects, or just have a chat. Always open to making new connections and collaborations!
+
