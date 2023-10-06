@@ -26,11 +26,6 @@ I'm Lyze (HakuSystems), a fusion of melodies and code. Music fuels my soul, whil
 
 ---
 
-🔗 **Quick Links**:
-- [CubeManager Website](https://cubemanager.org/)
-
----
-
 💬 **Let's Connect**:
 Feel free to reach out, discuss projects, or just have a chat. Always open to making new connections and collaborations!
 
