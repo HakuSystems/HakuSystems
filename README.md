@@ -2,7 +2,7 @@
 
 I'm Lyze (HakuSystems), a fusion of melodies and code. Music fuels my soul, while developing ignites my passion. In the symphony of life, I find harmony in creating tunes and crafting software. Whether it's hitting the right chord or writing the perfect line of code, I'm all about blending rhythms and algorithms. haha
 
-🔭 **Currently Working On**: [CubeManager](https://github.com/HakuSystems/CubeManager) - A comprehensive management tool for tasks and reminders.
+🔭 **Currently Working On**: [CubeManager](https://github.com/HakuSystems/CubeManager) - A comprehensive management tool for tasks and reminders. (Life-Management-App)
 
 🌱 **Learning**: Always eager to learn and explore new technologies.
 
