@@ -1,17 +1,26 @@
-🤝 **Collaborating**: Open to collaborations and love to work on exciting projects.
+<h1 align="center">HakuSystems</h1>
 
-📫 **How to reach me**: [Discord](https://discordapp.com/users/657301605195972628)
+<p align="center">
+  <b>C# & Unity Developer</b>
+</p>
 
-📊 **Languages and Tools**: 
-- C#
-- Unity
-- JavaScript
-- XAML
----
+<hr>
 
-📈 **My GitHub Stats**:
+### Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white" alt="XAML" />
+</p>
 
-![HakuSystems's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HakuSystems&show_icons=true&theme=radical)
+### GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=HakuSystems&show_icons=true&theme=radical" alt="HakuSystems GitHub Stats" />
+</p>
 
----
+### Collaborating & Contact
+Open to collaborations and exciting projects.
+* Discord: [hakusys](https://discordapp.com/users/657301605195972628)
 
+<hr>
