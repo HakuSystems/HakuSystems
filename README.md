@@ -20,12 +20,10 @@
 </p>
 
 ### Projects
-* **Naxokit**
 * **EasyExtractUnitypackage (EEU)**
 
 ### Collaborating & Contact
 Open to collaborations and exciting projects. No script-kiddies pls, copy-paste is trash.
 * Discord: [hakusys](https://discordapp.com/users/657301605195972628)
-* SoundCloud: [LyzeDesigns](https://soundcloud.com/lyzedesigns)
 
 <hr>
