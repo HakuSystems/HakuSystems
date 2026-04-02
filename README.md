@@ -14,7 +14,8 @@
   <img src="https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white" alt="XAML" />
 </p>
 
-[![HakuSystems GitHub stats](https://github-readme-stats-eight-beta-77.vercel.app/api?username=hakusystems&theme=neon&hide_border=true)](https://github.com/hakusystems/github-readme-stats)
+[![HakuSystems GitHub stats](https://github-readme-stats-eight-beta-77.vercel.app/api?username=hakusystems&count_private=true&theme=neon&hide_border=true&show_icons=true&show=prs_merged)](https://github.com/hakusystems/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eight-beta-77.vercel.app/api/top-langs/?username=hakusystems&layout=donut&theme=neon&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Collaborating & Contact
