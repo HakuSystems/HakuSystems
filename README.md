@@ -14,10 +14,8 @@
   <img src="https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white" alt="XAML" />
 </p>
 
-### GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HakuSystems&show_icons=true&theme=radical" alt="HakuSystems GitHub Stats" />
-</p>
+[![HakuSystems GitHub stats](https://github-readme-stats-eight-beta-77.vercel.app/api?username=hakusystems&theme=neon&hide_border=true)](https://github.com/hakusystems/github-readme-stats)
+
 
 ### Collaborating & Contact
 Open to collaborations and exciting projects.
